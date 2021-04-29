@@ -1,2 +1,2 @@
 # Payroll-Management
-complete Payroll management system with all the validation of  user's input.
+Complete Payroll management system with all the validation of  user's input.
