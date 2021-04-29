@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613062415 source:c:\users\shreaya\desktop\pay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
